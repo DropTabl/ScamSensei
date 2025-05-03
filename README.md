@@ -5,6 +5,9 @@ URLs, and audio inputs for potential scam indicators. Designed for versatility a
 risk scores to help users identify and understand potential scams.
 
 
+<img src="docs/audio.png" alt="Audio Scam Example" width="1200"/>
+
+
 ---
 
 ## 🚀 Features
